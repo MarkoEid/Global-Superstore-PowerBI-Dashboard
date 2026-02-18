@@ -1,7 +1,13 @@
 Global Superstore Data Analysis Dashboard
 A comprehensive Power BI project designed to analyze and visualize the performance of a global retail chain. This dashboard provides deep dives into sales trends, profitability, regional performance, and product categories to support data-driven decision-making.
 
+
+<img width="1437" height="801" alt="5" src="https://github.com/user-attachments/assets/f68b3295-a1b8-48f4-bdd4-e34775a77025" />![Uploading 1.png…]()
+
+
 📊 Project Overview
+
+
 The dashboard consists of five interactive sections:
 
 Main: An interactive landing page.
